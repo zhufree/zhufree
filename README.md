@@ -1,5 +1,13 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhufree&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[![zhufree's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhufree)](https://github.com/anuraghazra/github-readme-stats)
+
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhufree&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zhufree/zhufree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
