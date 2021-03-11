@@ -1,8 +1,9 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhufree&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+![zhufree](https://steam-stat.vercel.app/api?profileName=zhufree)
+***
+[![zhufree's github stats](https://github-readme-stats.vercel.app/api?username=zhufree&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+***
 [![zhufree's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhufree)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
