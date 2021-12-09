@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![来井盖找我聊天](https://ark-perm.17173cdn.com/badge/badge.jpg)](https://zhufree.jgchat.net/)
+![github activities](https://metrics.lecoq.io/zhufree?template=terminal)
 
 ![zhufree](https://steam-stat.vercel.app/api?profileName=zhufree)
 ***
@@ -7,6 +7,9 @@
 ***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhufree&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+### My discord server
+[![FreeStudio](https://yt3.ggpht.com/XXqZ5wMP3gWAXCk6sr6LVmOvoys-bT9G4ZJUxuYU7xaG8Ys3X7PRHZYqTDnBo85KiWROJHGpHQ=s176-c-k-c0x00ffffff-no-rj)](https://discord.gg/nBmvXHdVsZ)
 <!--
 **zhufree/zhufree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
