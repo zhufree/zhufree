@@ -4,6 +4,9 @@
 
 [![zhufree's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhufree&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+```text
+Other                 12 mins         ████████████████████████▓   98.75 % 
+```
 <!--END_SECTION:waka-->
 
 ## Social Accounts
