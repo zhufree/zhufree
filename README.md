@@ -5,11 +5,11 @@
 [![zhufree's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhufree&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Vue.js       3 hrs 48 mins   ████████████░░░░░░░░░░░░░   47.45 % 
-Python       2 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.08 % 
-HTML         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-JavaScript   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Vue.js       3 hrs 10 mins   ████████████░░░░░░░░░░░░░   47.65 % 
+Python       2 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   37.39 % 
+HTML         46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
 
