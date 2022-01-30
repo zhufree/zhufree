@@ -5,11 +5,11 @@
 [![zhufree's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhufree&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Python       5 hrs 55 mins   █████████████░░░░░░░░░░░░   51.91 % 
-JavaScript   2 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.08 % 
-HTML         1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-XML          57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Solidity     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Python       4 hrs 57 mins   ████████████░░░░░░░░░░░░░   47.50 % 
+JavaScript   2 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
+HTML         1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+XML          57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Solidity     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 <!--END_SECTION:waka-->
 
