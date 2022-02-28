@@ -4,11 +4,14 @@
 
 [![zhufree's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhufree&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+
 ```text
-Python       7 hrs 30 mins   ████████████████████████░   96.49 % 
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Python       6 hrs 53 mins   ████████████████████████░   96.19 %
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## Social Accounts
