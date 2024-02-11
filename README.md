@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js   56 mins         █████████████████████▒░░░   85.12 %
-JSON     7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
