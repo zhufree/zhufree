@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       45 mins         ███████████████████▓░░░░░   79.31 %
-Vue.js       7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-JavaScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+JavaScript   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
