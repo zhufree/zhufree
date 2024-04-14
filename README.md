@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 mins          █████████████████████████   100.00 %
+GDScript3   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
