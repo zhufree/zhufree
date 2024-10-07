@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other       2 hrs 19 mins   ████████████████████████░   96.44 %
+GDScript3   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
