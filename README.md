@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      5 hrs 48 mins   ██████████████████░░░░░░░   71.87 %
-GDScript   1 hr 46 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-Markdown   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Other      6 hrs 19 mins   ██████████████████▓░░░░░░   74.82 %
+GDScript   1 hr 37 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+Markdown   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->
