@@ -6,8 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      49 hrs 19 mins  █████████████████░░░░░░░░   68.02 %
-GDScript   23 hrs 11 mins  ████████░░░░░░░░░░░░░░░░░   31.98 %
+Other      47 hrs 11 mins  █████████████████▒░░░░░░░   68.84 %
+GDScript   21 hrs 21 mins  ███████▓░░░░░░░░░░░░░░░░░   31.16 %
 ```
 
 <!--END_SECTION:waka-->
