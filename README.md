@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      17 hrs 11 mins  █████████████████▓░░░░░░░   70.33 %
-GDScript   7 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.35 %
-Python     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other      14 hrs 45 mins  █████████████████░░░░░░░░   68.13 %
+GDScript   6 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.50 %
+Python     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
