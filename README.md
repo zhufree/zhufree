@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![zhufree's github stats](https://github-readme-stats.vercel.app/api?username=zhufree&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![zhufree's GitHub Streak](https://streak-stats.demolab.com/?user=zhufree)](https://git.io/streak-stats)
 [![zhufree's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhufree&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
