@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other            12 hrs 15 mins  ████████▓░░░░░░░░░░░░░░░░   34.57 %
-TypeScript       10 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   28.68 %
-SQL              3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-JavaScript       2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-HTML             2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other            17 hrs 34 mins  ███████████░░░░░░░░░░░░░░   43.43 %
+TypeScript       8 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+SQL              3 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+GDScript3        3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+JavaScript       2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
