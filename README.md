@@ -5,10 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3    9 hrs 32 mins         █████████████████████▒░░░   85.14 %
-TypeScript   1 hr 7 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Other        30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-YAML         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+GDScript3   12 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
