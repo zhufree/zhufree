@@ -5,7 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3   12 mins               █████████████████████████   100.00 %
+Kotlin       15 mins               ███████████████▓░░░░░░░░░   62.41 %
+TypeScript   5 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+Other        4 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
 ```
 
 <!--END_SECTION:waka-->
