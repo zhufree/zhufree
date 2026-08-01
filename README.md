@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GDScript3        4 hrs 15 mins         ████████████████░░░░░░░░░   64.37 %
+Markdown         52 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Other            50 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Godot Resource   37 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
