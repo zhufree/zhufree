@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Swift        6 hrs 38 mins         █████████▓░░░░░░░░░░░░░░░   38.36 %
+Markdown     4 hrs 54 mins         ███████░░░░░░░░░░░░░░░░░░   28.29 %
+SQL          2 hrs 53 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+TypeScript   1 hr 38 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Kotlin       1 hr 2 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:waka-->
