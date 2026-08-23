@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 47 mins         █████████░░░░░░░░░░░░░░░░   36.57 %
-TypeScript   1 hr 37 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
-Kotlin       1 hr 12 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Vue          46 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-SQL          37 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
